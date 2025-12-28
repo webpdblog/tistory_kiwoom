@@ -1,0 +1,11 @@
+# 키움증권 REST API 토큰 관리 시스템
+# Python 3.8 이상 필요
+
+# HTTP 요청
+requests>=2.31.0
+
+# 환경 변수 관리
+python-dotenv>=1.0.0
+
+# 추가 유틸리티 (선택사항)
+# colorama>=0.4.6  # 윈도우 콘솔 색상 지원
